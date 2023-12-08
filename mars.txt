@@ -1,2 +1,4 @@
 This is my first text
 This is the second line added 
+We are adding the 3rd line
+
